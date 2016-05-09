@@ -1,0 +1,15 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"JavaScript & NodeJS Snippets",
+		"Javascript Beautify",
+		"JavaScript Refactor",
+		"JavaScriptNext - ES6 Syntax",
+		"MarkdownEditing",
+		"Material Theme"
+	]
+}
